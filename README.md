@@ -2,10 +2,10 @@
 <p>Nossa MIssão é: <strong>PROPORCIONAR AUTO-ESTIMA E QUALIDADE DE VIDA AOS CLIENTES</strong></p>
 <p> Oferecemos profissionais experientes e antenados ás mudanças do mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo e satisfação dos nossos clientes.</p>
 tag<h1>Benefícios</h1
-<p><strong>atendimento aos clientes</strong></p>
-<p><strong>espaço diferenciado</strong></p>
-<p><strong>localizaçâo</strong></p>
-<p><strong>profissionais qualificados</strong></p>
-<p><strong>pontualidade</strong></p>
-<p><strong>limpeza</strong></p>
-<p><strong>tudo show de bola </strong></p>
+<p><strong>-atendimento aos clientes</strong></p>
+<p><strong>-espaço diferenciado</strong></p>
+<p><strong>-localizaçâo</strong></p>
+<p><strong>-profissionais qualificados</strong></p>
+<p><strong>-pontualidade</strong></p>
+<p><strong>-limpeza</strong></p>
+<p><strong>-tudo show de bola </strong></p>
