@@ -8,4 +8,4 @@ tag<h1>Benefícios</h1
 <p><strong>profissionais qualificados</strong></p>
 <p><strong>pontualidade</strong></p>
 <p><strong>limpeza</strong></p>
-show de bola
+<p><strong>tudo show de bola </strong></p>
